@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="despeech",
-    version="0.0.1",
+    version="0.0.2",
     author="Lidiia Ostyakova",
     author_email="lostaaa15@gmail.com",
     description="Tool for converting direct speech in German into indirect one",
